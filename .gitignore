@@ -32,3 +32,10 @@ capybara-*.html
 rerun.txt
 pickle-email-*.html
 >>>>>>> 22047f74ea91957c9c7fe6e1fc4f1833d7b74735
+
+#Ignore other unneeded files
+*.swp
+*~
+.project
+.DS_Store
+bundler_stubs/
